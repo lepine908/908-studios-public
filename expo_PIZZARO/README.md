@@ -7,3 +7,6 @@ IF YOU ARE ENGLISH, USE A TRANSLATE SERVICE FROM FRENCH TO ENGLISH.
 **Voici comment l'utiliser:**
 Dans le dossier expo_PIZZARRO, vous trouvez :
 **-DIAPORAMA.odp**: à ouvrir dans le **logiciel "LibreOffice"(à installer si ce n'est pas déja fait)**, c'est le diaporama que vous pouvez présenter(après avoir fait diaporama -> Démarrer à la première diapo).
+**-TEXTES.odt** ET **TEXTES.pdf**:Contiennent les textes liés au diaporama(organisés avec le diaporama).Format ODT(avec LibreOffice)et format PDF(portable, peut être ouvert avec le navigateur).
+
+**AMUSEZ-VOUS BIEN ET APPRENEZ DES CHOSES!**
